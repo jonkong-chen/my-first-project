@@ -1,4 +1,5 @@
 # my-first-project
+
 # My First Project
 
 This is my first GitHub project.
@@ -12,3 +13,9 @@ I am learning AI application development.
 - Learn Git and GitHub
 - Learn Python
 - Build my first AI application
+
+## Branch Practice
+
+This content was added in the feature/branch-practice branch.
+
+I am learning how Git branches work.
